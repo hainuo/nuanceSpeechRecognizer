@@ -1,6 +1,7 @@
 # nuanceSpeechRecognizer
 demo nuance key
-
+下面为 测试用例密钥
+```xml
 
 <?xml version="1.0" encoding="UTF-8" ?>
 <security>
@@ -9,3 +10,5 @@ demo nuance key
 <item name="nuance_host" value="jjs.nmdp.nuancemobility.net"/>
 <item name="nuance_port" value="443"/>
 </security> 
+
+```
