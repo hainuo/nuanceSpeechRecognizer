@@ -1,0 +1,5 @@
+{
+    "name":"nuance",
+    "class":"nuance",
+    "methods":["startTransaction","startSpeech","stopRecording","destroyNuance","createNuance"],
+}
