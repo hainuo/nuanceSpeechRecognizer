@@ -1,0 +1,5 @@
+{
+    "name":"nuanceSpeechRecognizer",
+    "class":"nuanceSpeechRecognizer",
+    "methods":["startTransaction","startSpeech","stopRecording","destroyNuance","createNuance"],
+}
